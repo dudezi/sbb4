@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Sbb4ApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="sbb4.test" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.example.sbb4.Hello.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.example.sbb4" />
+    <option name="MAIN_CLASS_NAME" value="com.example.sbb4.Sbb4ApplicationTests" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
