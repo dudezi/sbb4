@@ -3,7 +3,7 @@
     <module name="sbb4.test" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.example.sbb4.hello.*" />
+        <option name="PATTERN" value="com.example.sbb4.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
